@@ -14,6 +14,5 @@ Ein webbasiertes Vergabe- und Antragsmanagement-Tool für VgV-Verfahren.
 ## Lokale Nutzung
 
 ```bash
-git clone https://github.com/Yllnora/vergabetool.git
-cd vergabetool
-python manage.py runserver
+git clone https://github.com/Yllnora/VgV.git
+
